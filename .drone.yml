@@ -1,6 +1,8 @@
+# drone file is mandatory
 # .drone.yml - Sample file for connecting your module to Walhall's CI/CD pipeline.
 # Save this in the repository root. You don't have to change anything.
 # All environment variables are created in Walhall as secrets.
+
 
 pipeline:
 # Walhall requires git tags to exactly match the image tags.
